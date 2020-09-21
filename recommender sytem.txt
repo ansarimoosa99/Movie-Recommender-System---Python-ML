@@ -1,0 +1,21 @@
+popularity based (trendinggggg)
+content based likes...genre director casts...for similarity score 
+collabrative filtering based rec system
+hybrid based
+
+
+1.scikit learn library to count no of words
+countvectorizer class therefore need to initialize it...
+>>scikitlearn library find count of words in text
+
+2.now to find cosine similarity using scikiklearn
+>>import sklearn.metrics.pairwise from cosine_similarity
+cosine_similarity is a method so no need to initialize it.
+
+
+Q. When to use Eucledean dist and when to use Cosine dist to find similarity betw 2 vectors?
+Q.how to preprocess and cleanup the data for ML that youu get from internet ? If there are any null values
+Pnadas to read csv file
+(method and class..........typecast to troubleshoot float and str conflict in dataframe formation 1:16:52 its happening bcuz of NaN(its floating point value) )
+
+dataset link: http://www.codeheroku.com/static/workshop/datasets/movie_recommender.zip
